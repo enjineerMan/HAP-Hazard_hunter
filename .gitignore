@@ -1,0 +1,6 @@
+# ignore jupyter notebooks checkpoints 
+.ipynb_checkpoints/
+# ignore output image files 
+output_images/
+# ignore additioanl data files 
+more_data/
