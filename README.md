@@ -17,6 +17,8 @@ i.e. your directory should look something like this:
  
  with the Visualizer_v0.3.ipynb file in the /code directory and the associated data .csv files in the /data directory
 
+![image](https://github.com/enjineerMan/HAP-Hazard_hunter/assets/62212652/5ad94dc6-e527-4284-b3a8-f9c85894deef)
+
 ### Credits:
   * Coding & Ideas - *Chris Stewart*
   * Bugfixes & Ideas - *David Wang*
